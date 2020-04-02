@@ -1,0 +1,11 @@
+### ignoring IDE-specific files (must import if just opening doesn't work in IntelliJ)
+.idea
+.vscode
+*.iml
+### macOS-specific
+.DS_Store
+### confidential files
+static/credentials.py
+### python specific
+**__pycache__*
+venv
