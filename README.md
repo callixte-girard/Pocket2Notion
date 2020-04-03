@@ -10,7 +10,7 @@ Those 2 repositories used to be the same app but I splitted them since April 202
 
 ### 1) Export your Pocket data in order to use it as an input file for Notion
 
-Go to https://getpocket.com/export and click Export HTML File.
+Go to the [Pocket export page](https://getpocket.com/export) and click Export HTML File.
 
 You can also do it manually from the Pocket app : 
 Go to your Pocket Settings (click on your profile photo in the upper right corner of the screen) then click on Export.
